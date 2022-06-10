@@ -1,0 +1,24 @@
+track cds
+longLabel cds
+shortLabel cds
+priority 11
+visibility full
+color 122,122,122
+bigDataUrl Tdalaica_11.bigBed
+type bigBed
+boxedCfg on
+exonArrows on
+exonNumbers on
+itemRgb on
+colorByStrand 255,0,0 0,0,255
+
+
+track align
+longLabel align
+shortLabel align
+priority 11
+visibility dense
+color 0,0,0
+bigDataUrl Tdalaica_11.Ttibetana.bigBed
+type bigBed
+exonArrows on
