@@ -1,0 +1,5 @@
+hub align
+shortLabel TdaTtiAlign
+longLabel Alignment bwtween Tdalaica and Ttibetana
+genomesFile genomes.txt
+email jinling@ioz.ac.cn
