@@ -1,0 +1,9 @@
+genome Tdalaica
+trackDb Tdalaica/trackDb.txt
+groups groups.txt
+description Reference
+twoBitPath Tdalaica/Tdalaica_11.2bit
+organism Triplophysa dalaica
+defaultPos Tdalaica_11:0-23836536
+orderKey 4800
+scientificName Triplophysa dalaica
