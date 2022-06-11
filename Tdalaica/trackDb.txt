@@ -1,0 +1,31 @@
+track assembly
+longLabel T. dalaica assembly
+shortLabel Assembly
+group Mapping
+priority 10
+visibility full
+color 60,60,60
+bigDataUrl Tdalaica_11.assembly.bigBed
+type bigBed 6 .
+
+
+track Genes
+longLabel Gene annotation
+shortLabel Gene annotation
+group Genes
+priority 11
+visibility full
+color 150,0,0
+bigDataUrl Tdalaica_11.bigBed
+type bigBed 12 .
+
+
+track Comparative
+longLabel T. tibetana cactus alignment
+shortLabel Ttibetana alignment
+group Comparative
+priority 12
+visibility full
+color 0,0,0
+bigDataUrl Tdalaica_11.Ttibetana.bigBed
+type bigBed 12 .
