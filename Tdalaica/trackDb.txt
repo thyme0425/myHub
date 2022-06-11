@@ -1,0 +1,26 @@
+track Genes
+longLabel Genes
+shortLabel Genes
+group Genes
+priority 11
+visibility full
+color 122,122,122
+bigDataUrl Tdalaica_11.bigBed
+type bigBed 12 .
+# boxedCfg on
+# exonArrows on
+# exonNumbers on
+# itemRgb on
+# colorByStrand 255,0,0 0,0,255
+
+
+track Comparative
+longLabel Comparative
+shortLabel Comparative
+group Comparative
+priority 12
+visibility full
+color 0,0,0
+bigDataUrl Tdalaica_11.Ttibetana.bigBed
+type bigBed 12 .
+# exonArrows on
