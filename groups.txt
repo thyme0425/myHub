@@ -1,0 +1,14 @@
+name Mapping
+label Mapping
+priority 1
+defaultIsClosed 0
+
+name Genes
+label Genes
+priority 2
+defaultIsClosed 0
+
+name Comparative
+label Comparative
+priority 3
+defaultIsClosed 0
